@@ -2,17 +2,27 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/the-quiet-joy-of-creative-hobbies/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/moving-your-body-lifting-your-mood/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/learning-something-new-sparks-joy/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/hobbies-that-connect-you-to-others/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/the-comfort-of-simple-everyday-hobbies/
         </loc>
     </url>
     <url>
@@ -33,6 +43,36 @@
     <url>
         <loc>
             http://localhost:8000/how-hobbies-are-able-to-increase-your-happiness/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/diy-candle-making-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/beginner-painting-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/indoor-herb-gardening-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/diy-jewelry-making-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/puzzle-mindfulness-kit/
         </loc>
     </url>
     <url>
